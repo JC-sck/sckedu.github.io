@@ -1,2 +1,4 @@
+markdown: kramdown
 title: SCK Education
+description: SCK에서 제공하는 교육 관련 상품 소개
 theme: jekyll-theme-cayman
