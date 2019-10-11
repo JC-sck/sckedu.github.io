@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## SCK Education 에 오신 것을 환경 합니다!
 
-You can use the [editor on GitHub](https://github.com/JC-sck/sckedu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이 페이지는 아래의 두 가지 항목에 대한 정보를 제공합니다.
+- MTA (Microsoft Technology Assiciate) 자격증
+- Microsoft GTP (Global Traning Parnter)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## MTA (Microsoft Technology Assiciate) 자격증
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+MTA는 Microsoft사가 공인하는 국제인증 자격시험입니다.
+MTA는 수시시험으로 원하는 일자, 장소에서 편리하게 응시할 수 있습니다.
+MTA는 기술 분야 커리어를 시작하고자 하는 분들에게 많은 도움을 줍니다.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Microsoft GTP (Global Traning Parnter)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JC-sck/sckedu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### MCE(Microsoft Certified Educator)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+```markdown
+MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
+```
+
+MCE 시험 [자세히 보기](https://www.microsoft.com/ko-kr/learning/mce-certification.aspx)
+
+
+### 지원 또는 연락
+
+
+질문이 있으신 경우 [최목연 차장 (lina.choi@sckcorp.co.kr)](mailto:lina.choi@sckcorp.co.kr)로 연락 부탁 드립니다.
